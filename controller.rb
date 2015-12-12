@@ -4,7 +4,6 @@ require_relative 'flashcards'
 require_relative 'parser'
 require_relative 'view'
 
-require 'pry'
 
 class Controller
   include Parseable
